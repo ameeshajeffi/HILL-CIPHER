@@ -86,3 +86,4 @@ int main() {
 <img width="1920" height="1080" alt="Screenshot 2025-09-03 082624" src="https://github.com/user-attachments/assets/8b852fb5-8e97-4ee1-86b4-87fa9464ee5f" />
 
 ## RESULT
+The program is executed successfully.
